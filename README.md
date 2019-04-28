@@ -11,4 +11,5 @@ pip install requests_html
 
 http://127.0.0.1:5000/stock_input
 
+change port number in main.py
 
