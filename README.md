@@ -9,6 +9,6 @@ pip install yahoo_fin
 pip install requests_html
 
 
-http://127.0.0.1/stock_input
+http://127.0.0.1:5000/stock_input
 
 
